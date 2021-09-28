@@ -1,3 +1,8 @@
+---
+layout: default
+title: Niklas Holmgren
+---
+
 # Niklas Holmgren
 <address>
   Niklas Holmgren Holding AB<br/>
