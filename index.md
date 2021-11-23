@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Niklas Holmgren
+title: Niklas Holmgren & Associates
 ---
 
 <address>
@@ -12,9 +12,6 @@ title: Niklas Holmgren
 ## Contact
 - info@niklasholmgren.com
 - +46 76 14 88 561
-
-## Services
-- Niklas Holmgren & Associates — Consulting Services — Contact for Availability
 
 ## Expertise
 - Fintech
