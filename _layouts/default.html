@@ -15,16 +15,19 @@
         font-family: "calibre-regular";
         font-size: 24px;
       }
+      main {
+        max-width: 24em;
+      }
       h1 {
         line-height: 1em;
         margin-bottom: 1em;
-        padding-left: 1rem;
+        padding-left: 1em;
         font-size: 24px;
         font-weight: normal;
       }
       section {
-        background: #111;
-        color: #fefefe;
+        /*background: #111;
+        color: #fefefe;*/
         padding: 1em;
       }
       section a {
@@ -48,9 +51,11 @@
     </style>
   </head>
   <body>
-    <h1>{{ page.title }}</h1>
-    <section>
-      {{ content }}
-    </section>
+    <main>
+      <h1>{{ page.title }}</h1>
+      <section>
+        {{ content }}
+      </section>
+    </main>
   </body>
 </html>
