@@ -15,6 +15,7 @@ NH&A is a one man consultancy that provides CTO for hire services to startups. W
 - Insurtech
 - Medtech/healthtech
 - Media/streaming
+- AI/Machine learning
 - E-commerce
 - Apps
 
