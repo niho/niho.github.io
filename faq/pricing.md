@@ -7,7 +7,7 @@ title: Niklas Holmgren & Associates
 
 We know that money is always a scarce resource in a startup. But we are not a traditional consulting firm and we don’t do what we do to make a quick buck. We see ourselves as investors and we want to grow together with our clients. To make that possible we have a unique tiered pricing model, based on what stage your company is currently at. But the expertise and commitment is exactly the same no matter how much you pay. We want you to win.
 
-| Stage | Price |
+| Stage | Price |
 |-------|-------|
 | Pre-launch | Please contact us for a quote. |
 | Pre-seed | 300 SEK / hour |
