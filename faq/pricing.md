@@ -9,7 +9,7 @@ We know that money is always a scarce resource in a startup. But we are not a tr
 
 | Stage | Price |
 |-------|-------|
-| Pre-launch | You don’t have any product or revenue yet. We can probably figure something out. Please contact us for a quote. |
+| Pre-launch | Please contact us for a quote. |
 | Pre-seed | 300 SEK / hour |
 | Seed | 500 SEK / hour |
 | Series A and above | 825 SEK / hour |
