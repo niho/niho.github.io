@@ -8,10 +8,10 @@ title: Niklas Holmgren & Associates
 What’s the benefits of using a CTO for hire consultant, rather than an employee or co-founder CTO?
 
 1. [Can scale up quickly](#can-scale-up-quickly)
-2. [Long experience / safe bet](#long-experience-safe-bet)
+2. [Long experience / safe bet](#long-experience--safe-bet)
 3. [Can use network for hiring engineers](#can-use-network-for-hiring-engineers)
 4. [Less administration and simpler accounting](#less-administration-and-simpler-accounting)
-5. [Can deduct the VAT to increase your margins/profit](#can-deduct-the-vat-to-increase-your-margins-profit)
+5. [Can deduct the VAT to increase your margins/profit](#can-deduct-the-vat-to-increase-your-marginsprofit)
 6. [Can use public financing options like Almi, Vinnova or EU grants to pay for consulting fees](#can-use-public-financing-options-like-almi-vinnova-or-eu-grants-to-pay-for-consulting-fees)
 7. [Don’t need to give away shares in your company](#dont-need-to-give-away-shares-in-your-company)
 8. [Can end the collaboration quickly if things don’t work out](#can-end-the-collaboration-quickly-if-things-dont-work-out)
