@@ -10,6 +10,11 @@ title: Niklas Holmgren & Associates
 ## About
 NH&A is a one man consultancy that provides CTO for hire services to startups. We have experience from founding a number of successful businesses and can help to accelerate your company to success. We can work with any tech stack, or help you choose one if you haven't already. Just getting started and need to build an MVP? Or ready to scale up and hire an engineering team? We can help you at all stages of your journey.
 
+## Frequently asked questions
+- [Why should I hire a CTO consultant?)(/faq/why)
+- [We want a long term commitment, can you deliver?](/faq/commitment)
+- [It sounds expensive. Can we afford it?](/faq/pricing)
+
 ## Expertise
 - Fintech
 - Insurtech
