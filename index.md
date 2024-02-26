@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Niklas Holmgren & Associates
+title: Niklas Holmgren
 ---
 
 <div class="memoji">
