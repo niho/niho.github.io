@@ -1,19 +1,10 @@
 ---
 layout: default
-title: Niklas Holmgren
+title: Build great things together.
 ---
 
-<div class="memoji">
-  <img src="/assets/b45c6c5789bcd156a91ca19010be861c-sticker.png" width="210" height="210" alt="Memoji" />  
-</div>
+## About
+Niklas Holmgren Holding (NHH) is a strategy and creative consulting firm that partners with future leaders in business to tackle hard problems with contemporary solutions. We work with innovative startups and strong brands to pioneer business strategy, solve organisational problems, create the most desirable brands, and design revolutionary products that push the envelope of what is possible. 
 
-## Contact
-- info@niklasholmgren.com
-- +46 76 14 88 561
-
-## Address
-<address>
-  Niklas Holmgren Holding AB<br/>
-  Borgvägen 1<br/>
-  115 53 Stockholm, Sweden
-</address>
+## What we do
+We do micro investments in small and medium sized growth companies. We also provide technology, leadership, design and operational consulting services. By assessing your current business and organisation, we identify the gaps between where you are today and where you need to be. We close the gaps by providing expertise, training, capital and hands-on action.

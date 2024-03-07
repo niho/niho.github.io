@@ -18,15 +18,28 @@
       main {
         max-width: 24em;
       }
+      header {
+          background-image: url("/assets/rostislav-uzunov-SgFha9MH9qs-unsplash.jpg");
+          background-repeat: no-repeat;
+          padding: 1em;
+          margin: -1em;
+      }
+      img.logo {
+          height: 1.2em;
+          width: auto;
+      }
       h1 {
-        line-height: 1em;
-        margin-bottom: 1em;
-        padding-left: 1em;
-        font-size: 24px;
+        line-height: 0.9em;
+        margin: 1em 0;
+        font-size: 3em;
         font-weight: normal;
       }
       section {
-        padding: 1em;
+        padding: 1em 0;
+      }
+      footer {
+          font-size: 0.5em;
+          opacity: 0.5;
       }
       a {
         color: #000; 
@@ -66,16 +79,52 @@
         text-align: left; 
       }
       th {
-        text-decoration: underline; 
+          text-decoration: underline; 
+      }
+
+      @media only screen and (min-width: 768px) {
+          img.logo {
+              height: 2em;
+          }
+          h1 {
+              font-size: 8em;
+          }
+          footer {
+              display: flex;
+              gap: 1em;
+          }
+          footer div {
+              width: 33%;
+          }
       }
     </style>
   </head>
   <body>
+    <header>
+      <img src="/assets/NHH_logo.svg" width="160" height="66" alt="NHH" class="logo"/>
+      <h1>{{ page.title }}</h1>
+    </header>
     <main>
-      <h1><a href="/">{{ page.title }}</a></h1>
       <section>
         {{ content }}
       </section>
     </main>
+    <footer>
+      <div>
+        <h2>Contact</h2>
+        <ul>
+          <li>hello@niklasholmgren.com</li>
+          <li>+46 76 14 88 561</li>
+        </ul>
+      </div>
+      <div>
+        <h2>Address</h2>
+        <address>
+          Niklas Holmgren Holding AB<br/>
+          Borgvägen 1<br/>
+          115 53 Stockholm, Sweden
+        </address>
+      </div>
+    </footer>
   </body>
 </html>
