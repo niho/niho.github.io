@@ -10,10 +10,10 @@ Niklas Holmgren (NH) is a strategy and creative consulting firm that partners wi
 We provide technology, leadership, design and operational consulting services. By assessing your current business and organization, we identify the gaps between where you are today and where you need to be. We close the gaps by providing expertise, training, capital and hands-on action.
 
 ## Services
-- E-commerce
-- Development
-- Strategy
-- Open Source
+- Business Development &amp; Strategy
+- Product Development
+- Graphic Design
+- Venture Investments
 
 ## Manifesto
 We believe in the transformative power of working together.
