@@ -16,10 +16,12 @@
         font-size: 24px;
       }
       main {
-        max-width: 24em;
+          max-width: 24em;
+          margin: 0 0 5em 0;
       }
       header {
-          background-image: url("/assets/rostislav-uzunov-SgFha9MH9qs-unsplash.jpg");
+          background-image: url("/assets/pawel-czerwinski-J7en76WCGdU-unsplash.jpg");
+          background-size: cover;
           background-repeat: no-repeat;
           padding: 1em;
           margin: -1em;
@@ -34,18 +36,22 @@
         font-size: 3em;
         font-weight: normal;
       }
-      section {
-        padding: 1em 0;
-      }
       footer {
           font-size: 0.5em;
           opacity: 0.5;
+      }
+      footer h2 {
+          font-size: 1em;
+          margin-top: 1em;
       }
       a {
         color: #000; 
       }
       a:hover {
         color: #aaa; 
+      }
+      p {
+        font-size: 0.75em;
       }
       ul {
         list-style: none;
@@ -83,18 +89,45 @@
       }
 
       @media only screen and (min-width: 768px) {
+          body {
+              padding: 0;
+              margin: 0;
+              display: grid;
+              grid-template-columns: minmax(15em,1fr) 2fr;
+              column-gap: 2em;
+              row-gap: 1em;
+          }
+          header {
+            margin: 0;
+            min-height: 100vh;
+            grid-row-start: 1;
+            grid-row-end: 3;
+          }
+          main {
+              padding: 0 2em 5em 0;
+          }
           img.logo {
               height: 2em;
           }
           h1 {
-              font-size: 8em;
+              font-size: 3em;
           }
           footer {
               display: flex;
               gap: 1em;
+              flex-direction: column;
+              padding-bottom: 2em;
           }
-          footer div {
-              width: 33%;
+      }
+      @media only screen and (min-width: 1100px) {
+          body {
+              grid-template-columns: minmax(15em,2fr) 18em minmax(8em,1fr);
+          }
+          main {
+              padding: 0 0 5em 0;
+          }
+          footer h2 {
+              margin-top: 3em;
           }
       }
     </style>
