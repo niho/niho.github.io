@@ -15,10 +15,3 @@ We provide technology, leadership, design and operational consulting services. B
 - Graphic Design
 - Venture Investments
 
-## Manifesto
-We believe in the transformative power of working together.
-
-Our success depends on a deep spirit of collaboration, combined with limitless ingenuity, technical skills and good taste.
-
-## Mission
-Empower entrepreneurs, innovators and creators to grow their ideas to the next level.
