@@ -4,9 +4,11 @@ title: Build great things together.
 ---
 
 ## About
-Niklas Holmgren is a Stockholm-based designer, product strategist, and technologist working across architecture, digital products, and brand systems.
+<div class="prose">
+<p>Niklas Holmgren is a Stockholm-based designer, product strategist, and technologist working across architecture, digital products, and brand systems.</p>
 
-His work focuses on the intersection of design, technology, and organizational thinking — helping companies shape products, identities, and experiences with long-term clarity and coherence.
+<p>His work focuses on the intersection of design, technology, and organizational thinking — helping companies shape products, identities, and experiences with long-term clarity and coherence.</p>
+</div>
 
 ## Services
 
