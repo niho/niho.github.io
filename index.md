@@ -4,14 +4,20 @@ title: Build great things together.
 ---
 
 ## About
-Niklas Holmgren (NH) is a strategy and creative consulting firm that partners with future leaders in business to tackle hard problems with contemporary solutions. We work with innovative startups and strong brands to pioneer business strategy, solve organizational problems, create the most desirable identities, and design revolutionary products that push the envelope of what is possible. 
+Niklas Holmgren is a Stockholm-based designer, product strategist, and technologist working across architecture, digital products, and brand systems.
 
-## What we do
-We provide technology, leadership, design and operational consulting services. By assessing your current business and organization, we identify the gaps between where you are today and where you need to be. We close the gaps by providing expertise, training, capital and hands-on action.
+His work focuses on the intersection of design, technology, and organizational thinking — helping companies shape products, identities, and experiences with long-term clarity and coherence.
 
 ## Services
-- Business Development &amp; Strategy
-- Product Development
-- Graphic Design
-- Venture Investments
 
+### Product Strategy
+Brand identity, visual systems, digital experience, and creative direction across product and communication.
+
+### Product Management
+Bridging design, engineering, and business strategy in complex product environments.
+
+### Architecture & Spatial Concepts
+Selected work related to interiors, spatial identity, exhibitions, and architecture.
+
+### Technical Advisory
+Strategic guidance on software architecture, product infrastructure, and emerging technologies.
